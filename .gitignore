@@ -1,0 +1,13 @@
+.DS_Store
+.gitignore
+
+settings.json
+**/__pycache__/*
+.env
+
+data/*
+!data/.gitkeep
+
+experiments/*
+!experiments/.gitkeep
+!**/params.json
